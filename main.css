@@ -109,13 +109,13 @@ NAVIGATION
 
 /* Change the color of links on hover */
 .navbar a:hover {
-  background-color: #D8E2DC;
+  background-color: #FFE5D9;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .navbar a.active {
-  background-color: #D8E2DC;
+  background-color: #FFE5D9;
   color: black;
 }
    
