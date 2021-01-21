@@ -94,22 +94,30 @@ a {
    /*
    NAVIGATION
    */
-    nav {
-       text-align: center;
-       padding: 10px 0;
-       margin: 20px 0 0;
-     }
-   
-     nav ul  {
-       list-style: none;
-       margin: 0 10px;
-       padding: 0;
-   }
-   
-   nav li {
-     display: inline-block;
-   
-   }
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ECE4DB;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /*hover */
+  li a:hover {
+    background-color: #D8E2DC;
+  }
    
    
    
