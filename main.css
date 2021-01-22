@@ -113,11 +113,11 @@ NAVIGATION
   color: black;
 }
 
-/* Add a color to the active/current link */
+/* Add a color to the active/current link 
 .navbar a.active {
   background-color: #FFE5D9;
   color: black;
-}
+} */
    
    
    
