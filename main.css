@@ -154,7 +154,7 @@ NAVIGATION
    .myimage {
        display: block;
        max-width: 400px;
-       margin: 0 auto 30px;
+       margin: 20px;
        border-radius: 0px;
        border-style: solid;
        border-color: #FEC5BB;
